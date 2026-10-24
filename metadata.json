@@ -1,0 +1,6 @@
+{
+  "name": "ABDICity.cloud - Aplikasi Berjamaah Dakwah Islamicity 4B",
+  "description": "Platform Terpadu 4B Kaffah (Berdakwah, Bersyariah, Berjamaah, Bermuamalah) dengan Fasilitator Google Cloud Platform Cerdas untuk Pembangunan & Pengembang ABDI, AI Konsultasi Syariah, Halal Vision Scanner, Jadwal Sholat & Kiblat, dan Marketplace UMKM Syariah.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
